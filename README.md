@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @sousergiosilva
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Sérgio A. da Silva, Bachelor in Information Systems (2009) and Electrical Engineering (2014), Degree in Physics (2010), Master in Physics (2019). He is a professor at the Federal Institute of Bahia (2016-today) and a PhD student in Electrical Engineering (2019-today) at the Federal University of Pernambuco with a research area in Communications, 👀 focusing on optimization of optical networks using meta-heuristic algorithms.
 
-<!---
-sousergiosilva/sousergiosilva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 📫 How to reach me... Twitter: @sousergiosilva
+
