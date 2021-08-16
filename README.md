@@ -1,20 +1,29 @@
-- 👋 Hi, I’m Sérgio A. da Silva, Bachelor in Information Systems (2009) and Electrical Engineering (2014), Degree in Physics (2010), Master in Physics (2019). He is a professor at the Federal Institute of Bahia (2016-today) and a PhD student in Electrical Engineering (2019-today) at the Federal University of Pernambuco with a research area in Communications, 👀 focusing on optimization of optical networks using meta-heuristic algorithms.
+👋 Hi, I’m Sérgio A. da Silva, Bachelor in Information Systems (2009) and Electrical Engineering (2014), Degree in Physics (2010), Master in Physics (2019). He is a professor at the Federal Institute of Bahia (2016-today) and a PhD student in Electrical Engineering (2019-today) at the Federal University of Pernambuco with a research area in Communications, 👀 focusing on optimization of optical networks using meta-heuristic algorithms.
 
-- 📫 How to reach me... [![Twitter](https://img.shields.io/twitter/url?logo=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2F)](https://twitter.com/sousergiosilva)
+##
 
 <div>
   <a href="https://github.com/sousergiosilva">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api username=sousergiosilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sousergiosilva&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sousergiosilva&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sousergiosilva&layout=compact&langs_count=7&theme=algolia"/>
 </div>
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Rafa-yoda" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
+  <img align="center" alt="Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
+  <img align="center" alt="Cpp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
+   <img align="center" alt="Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
+  <img align="center" alt="MATLAB" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+  
+## 
+  
+<div> 
+ 	<a href="https://twitter.com/sousergiosilva" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/sergio-amaral-da-silva-1b7011b4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://instagram.com/sousergiosilva" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+   
+  ![Snake animation](https://github.com/sousergiosilva/sousergiosilva/blob/output/github-contribution-grid-snake.svg)
+ 
 </div>
