@@ -1,18 +1,23 @@
 ### Presentation
 
-<p align="center">
-  <img src="https://github.com/sousergiosilva/sousergiosilva/blob/main/gifs/giphy.webp" width="30%">
-  <br><br>
-</p>
+<div>
+  <p align="center">
+    <img src="https://github.com/sousergiosilva/sousergiosilva/blob/main/gifs/giphy.webp" width="30%">
+    <br><br>
+  </p>
+</div>
 
-👋 Hi, I’m Sérgio A. da Silva, Bachelor in Information Systems (2009) and Electrical Engineering (2014), Degree in Physics (2010), Master in Physics (2019). He is a professor at the Federal Institute of Bahia (2016-today) and a PhD student in Electrical Engineering (2019-today) at the Federal University of Pernambuco with a research area in Communications, 👀 focusing on optimization of optical networks using meta-heuristic algorithms.
+<div>
+  👋 Hi, I’m Sérgio A. da Silva, Bachelor in Information Systems (2009) and Electrical Engineering (2014), Degree in Physics (2010), Master in Physics (2019). He is a professor at the Federal Institute of Bahia (2016-today) and a PhD student in Electrical Engineering (2019-today) at the Federal University of Pernambuco with a research area in Communications, 👀 focusing on optimization of optical networks using meta-heuristic algorithms.
+</div>
 
 <br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sousergiosilva&show_icons=true&theme=algolia)
- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sousergiosilva&layout=compact&theme=algolia)](https://github.com/sousergiosilva/github-readme-stats)
-  
+<div>
+  <a href="https://github.com/sousergiosilva">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sousergiosilva&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+</div>
+
 <br/>
   
 ### Languages and Tools
