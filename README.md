@@ -1,13 +1,11 @@
 ### Presentation
 
 <div>
-  <p align="center">
-    <img src="https://github.com/sousergiosilva/sousergiosilva/blob/main/gifs/giphy.webp" width="30%">
-    <br><br>
-  </p>
+  <img align='left' src="https://github.com/sousergiosilva/sousergiosilva/blob/main/gifs/giphy.webp" width="30%">
+  <img align='right' src="https://github.com/sousergiosilva/sousergiosilva/blob/main/gifs/nerd.gif" width="30%">
 </div>
 
-<div>
+<div style="text-align: justify">
   👋 I’m Sérgio A. da Silva, Bachelor in Information Systems (2009) and Electrical Engineering (2014), Degree in Physics (2010), Master in Physics (2019). He is a professor at the Federal Institute of Bahia (2016-today) and a PhD student in Electrical Engineering (2019-today) at the Federal University of Pernambuco with a research area in Communications, 👀 focusing on optimization of optical networks using meta-heuristic algorithms.
 </div>
   
