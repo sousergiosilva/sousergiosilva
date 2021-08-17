@@ -1,13 +1,10 @@
 ### Presentation
 
-<div>
-  <img align='left' src="https://github.com/sousergiosilva/sousergiosilva/blob/main/gifs/giphy.webp" width="30%">
-  <img align='right' src="https://github.com/sousergiosilva/sousergiosilva/blob/main/gifs/nerd.gif" width="30%">
-</div>
-
 <div style="text-align: justify">
   👋 I’m Sérgio A. da Silva, Bachelor in Information Systems (2009) and Electrical Engineering (2014), Degree in Physics (2010), Master in Physics (2019). He is a professor at the Federal Institute of Bahia (2016-today) and a PhD student in Electrical Engineering (2019-today) at the Federal University of Pernambuco with a research area in Communications, 👀 focusing on optimization of optical networks using meta-heuristic algorithms.
 </div>
+
+<br>
   
 ### Languages and Tools
      
@@ -27,10 +24,9 @@
   <img align="center" alt="GitHub" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
 </div>
   
+<br>  
   
 ### Connect with me
-
-<br>
   
 <div> 
  	<a href="https://twitter.com/sousergiosilva" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
@@ -40,8 +36,6 @@
 <br>
   
 ### Statistics
-  
-<br>
   
 <div>
   <a href="https://github.com/sousergiosilva">
