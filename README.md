@@ -9,20 +9,20 @@
 ### Languages and Tools
      
 <div style="display: inline_block"><br>
-  <img align="center" alt="Python" height="30" width="40" src="https://github.com/sousergiosilva/sousergiosilva/blob/main/icons/python/python-original.svg">
-  <img align="center" alt="Cpp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
-  <img align="center" alt="MATLAB" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Linux" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
-  <img align="center" alt="Fedora" height="30" width="40" src="https://github.com/sousergiosilva/sousergiosilva/blob/main/icons/fedora/fedora-original.svg">
-  <img align="center" alt="Android" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg">
-  <img align="center" alt="Arduino" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg">
-  <img align="center" alt="Circuit" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/embeddedc/embeddedc-original.svg">
-  <img align="center" alt="VSCode" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
-  <img align="center" alt="GitHub" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
+  <img align="center" alt="Python" height="50" width="60" src="https://github.com/sousergiosilva/sousergiosilva/blob/main/icons/python/python-original.svg">
+  <img align="center" alt="Cpp" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="Java" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
+  <img align="center" alt="MATLAB" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg">
+  <img align="center" alt="HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="JavaScript" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Linux" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
+  <img align="center" alt="Fedora" height="50" width="60" src="https://github.com/sousergiosilva/sousergiosilva/blob/main/icons/fedora/fedora-original.svg">
+  <img align="center" alt="Android" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg">
+  <img align="center" alt="Arduino" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg">
+  <img align="center" alt="Circuit" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/embeddedc/embeddedc-original.svg">
+  <img align="center" alt="VSCode" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
+  <img align="center" alt="GitHub" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
 </div>
   
 <br>  
