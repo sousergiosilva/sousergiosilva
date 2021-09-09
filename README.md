@@ -10,6 +10,7 @@
      
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="50" width="50" src="https://github.com/sousergiosilva/sousergiosilva/blob/main/icons/python/python-original.svg">
+  <img align="center" alt="Julia" height="50" width="50" src="https://github.com/sousergiosilva/sousergiosilva/blob/main/icons/julia/julia-original.svg">
   <img align="center" alt="Cpp" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Java" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
   <img align="center" alt="MATLAB" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg">
